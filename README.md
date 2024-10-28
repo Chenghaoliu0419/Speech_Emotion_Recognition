@@ -2,7 +2,8 @@
 Datasets
 MSP-podcast, 2 IEMOCAP, 3 MSP-IMPROV
 
-Pre-trained models: Models on HuggingFace
+Pre-trained models:
+Models on HuggingFace
 Categorical model
 Multi-task attribute model - Emotional Attributes Prediction App/Demo
 Valence model
